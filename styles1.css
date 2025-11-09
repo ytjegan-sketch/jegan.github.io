@@ -74,7 +74,7 @@ body {
 }
 
 .condet p{
-    margin-left: -10px;
+    margin-left: 10px;
 }
 
 .lang p{
@@ -184,4 +184,5 @@ h1, h2 {
   .sidebar { width: 100%; min-width: unset; }
   .content { padding: 20px; }
 }
+
 
