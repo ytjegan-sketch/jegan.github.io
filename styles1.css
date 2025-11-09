@@ -98,6 +98,14 @@ body {
   font-weight: bold;
   transition: color 0.2s;
 }
+
+.smlink a{
+  color: #b5d0ff;
+  text-decoration: none;
+  padding: 5px 10px;
+  transition: color 0.2s;
+}
+
 .social-links a {
   margin: 0 8px;
   margin-left: -110px;
@@ -184,5 +192,6 @@ h1, h2 {
   .sidebar { width: 100%; min-width: unset; }
   .content { padding: 20px; }
 }
+
 
 
