@@ -67,7 +67,6 @@ body {
 }
 .cont p{
   color: #b5d0ff;
-  margin-left: -170px;
   text-decoration: none;
   padding: 5px 10px;
   font-weight: bold;
@@ -75,7 +74,7 @@ body {
 }
 
 .condet p{
-    margin-left: -60px;
+    margin-left: 10px;
 }
 
 .lang p{
@@ -185,3 +184,4 @@ h1, h2 {
   .sidebar { width: 100%; min-width: unset; }
   .content { padding: 20px; }
 }
+
